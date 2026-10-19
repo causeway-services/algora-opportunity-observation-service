@@ -13,5 +13,9 @@
   },
   "scripts": {
     "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/algora-opportunity-observation-service.git"
   }
 }
